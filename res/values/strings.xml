@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">RSS Клиент</string>
+    <string name="menu_settings">Настройки</string>
+    <string name="title_activity_channel_list">Список каналов</string>
+    <string name="title_activity_channel_add">Добавить канал</string>
+    <string name="title_activity_channel_detail">Просмотр канала</string>
+    <string name="delete_label">Удалить</string>
+    <string name="channel_name_label">Название канала</string>
+    <string name="channel_url_label">URL канала</string>
+    <string name="add_button_label">Добавить</string>
+
+</resources>
